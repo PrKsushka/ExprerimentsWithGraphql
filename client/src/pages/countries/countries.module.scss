@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  .sortPanel {
+    display: flex;
+    flex-direction: column;
+    margin-right: 60px;
+  }
+}
+td{
+  padding: 0 30px;
+  text-align: center;
+}
+thead {
+  background: plum;
+}
+tbody {
+  background: #e8e8e8;
+}
