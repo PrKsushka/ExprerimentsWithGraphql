@@ -60,10 +60,10 @@ const Countries: React.FunctionComponent = () => {
             <table>
                 <thead>
                 <tr>
-                    <td>Country</td>
-                    <td>Continent</td>
-                    <td>Code</td>
-                    <td>Flag</td>
+                    <td>Страна</td>
+                    <td>Континент</td>
+                    <td>Код</td>
+                    <td>Флаг</td>
                 </tr>
                 </thead>
                 <tbody>
